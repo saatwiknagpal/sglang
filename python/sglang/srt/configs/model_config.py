@@ -1306,6 +1306,8 @@ multimodal_model_archs = [
     "InternS1ProForConditionalGeneration",
     "Phi4MMForCausalLM",
     "WhisperForConditionalGeneration",
+    "VibeVoiceASRForConditionalGeneration",
+    "VibeVoiceForASRTraining",
     "Step3VLForConditionalGeneration",
     "POINTSV15ChatModel",
     "DotsVLMForCausalLM",
